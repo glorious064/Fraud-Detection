@@ -1,5 +1,5 @@
 # Fraud-Detection
-<sup>小组成员：</sup> Zou Yi && Huang Qiurui from Fudan University
+<sup>小组成员：</sup> Zou Yi && Huang Qiurui from Fudan University </br>
 
 
 The project is developed on the Intel OneAPI platform, utilizing Intel's **modin** module, the **Intel® Extension for Scikit-learn**, and the **Intel-optimized XGBoost tool**. The investigation focuses on the method accuracy in predicting credit card fraud and assesses the acceleration effects of the Intel tools.
