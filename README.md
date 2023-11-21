@@ -9,7 +9,7 @@ The project is developed on the Intel OneAPI platform, utilizing Intel's **modin
 - First, you can  clone this project to your local computer by the command:
 
   ```
-  git clone 
+  git clone https://github.com/zouyi73/Fraud-Detection.git
   ```
 
 - And then, you have to login/register(if you don't have an account) on https://devcloud.intel.com/oneapi/get_started/ ,  after that please launch JupyterLab 
