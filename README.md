@@ -11,7 +11,8 @@ The project is developed on the Intel OneAPI platform, utilizing Intel's **modin
 
 - And then, you have to login/register(if you don't have an account) on https://devcloud.intel.com/oneapi/get_started/ ,  after that please launch JupyterLab 
 
-​	<img src="C:\Users\74236\AppData\Roaming\Typora\typora-user-images\image-20231121203840058.png" alt="image-20231121203840058" style="zoom:40%;" />
+![image](https://github.com/zouyi73/Fraud-Detection/assets/98172367/725b6b76-7711-49c9-9d78-da7bbf2eb419)
+
 
 - Upload the project you have cloned just now, and run these commands to install relevant environments:
 
