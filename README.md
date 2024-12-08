@@ -25,8 +25,11 @@ The project is developed on the Intel OneAPI platform, utilizing Intel's **modin
   
   pip install scikit-learn-intelex
   pip install seaborn
-
+  
   pip install xgboost –c intel
   ```
 
   if you use conda to manage your package, please change pip as conda
+
+
+
